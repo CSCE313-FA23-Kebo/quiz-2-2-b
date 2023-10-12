@@ -1,0 +1,11 @@
+davidkebo@linux:~/code/source/quizzes/quiz3/types$ ./types 
+usage: path1 [path2 ...]
+davidkebo@linux:~/code/source/quizzes/quiz3/types$ ./types ./a.out /etc/passwd /etc /dev/log /dev/tty /var/lib/oprofile/opd_pipe /dev/cpu /usr/bin/ps
+./a.out: path error
+/etc/passwd: regular file
+/etc: directory
+/dev/log: symbolic link
+/dev/tty: character special file
+/var/lib/oprofile/opd_pipe: path error
+/dev/cpu: directory
+/usr/bin/ps: regular file
