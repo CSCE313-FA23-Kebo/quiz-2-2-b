@@ -1,8 +1,6 @@
 # Quiz 3.2.b: file types
 
-Write a C program that prints the type of file for each path provide as command-line argument.
-
-Before your start coding, you can briefly read about the file types here: https://linux.die.net/man/2/stat
+Write a C program that prints the type of file for each path provided as a command-line argument.
 
 ## Important notes: 
 1. If the path is not accessible, print the message `path error`.
