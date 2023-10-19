@@ -1,4 +1,4 @@
-# Quiz 3.2.b: file types
+# Quiz 2.2.b: file types
 
 Write a C program that prints the type of file for each path provided as a command-line argument.
 
